@@ -5,6 +5,7 @@ class Solution {
         }else if(num%9==0){
             return 9;
         }
+        
         else if(num>9){
             return num%9;
         }
